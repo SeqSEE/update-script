@@ -1,6 +1,3 @@
-
-https://github.com/theohmproject/ohmcoin/releases/download/2.3.2.1/ohmcoin-2.3.2.1-64-linux.tar.gz
-
 # update-script
 This script is used to quickly update nodes on vps servers.
 
