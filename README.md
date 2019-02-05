@@ -5,8 +5,8 @@ Example:
 wget https://github.com/theohmproject/ohmcoin/releases/download/github_version_tag/ohmcoin-version_number-linux.tar.gz && tar -xzvf ohmc-version_number-linux.tar.gz  && sudo ./update.sh && ohmcd -arguments
 
 Usage if:
-github_version_tag = v4.4.0.3
-version_number = 4.4.0.3
+github_version_tag = v2.4.0.0
+version_number = 2.4.0.0
 
 wget https://github.com/theohmproject/ohmcoin/releases/download/2.4.0.0/ohmcoin-2.4.0.0-64-linux.tar.gz && tar -xzvf vitae-2.4.0.0-linux.tar.gz  && sudo ./update.sh && ohmcd -daemon -txindex
 
