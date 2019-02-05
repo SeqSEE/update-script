@@ -61,7 +61,7 @@ sleep 3 && \
 echo -e "${green}You may now start the Vitae daemon normally ie.${nc}" && \
 sleep 3 && \
 echo " " && \
-echo  -e "${red}vitaed -daemon -txindex${nc}" && \
+echo  -e "${red}vitaed -daemon${nc}" && \
 echo " " && \
 sleep 3 && \
 echo -e "${red}Please make sure to restart your masternode in your controller wallet to complete the upgrade process${nc}"
